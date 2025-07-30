@@ -1,9 +1,9 @@
 # 📁 About Me:
 Hi there! I'm Kazim Rattansi
 
-🎓 Honors Actuarial Science Student at St. John's University
-🧮 Aspiring ALM Actuary
-🗓️ Graduating May 2029
+🎓 Honors Actuarial Science Student at St. John's University <br>
+🧮 Aspiring ALM Actuary <br>
+🗓️ Graduating May 2029 <br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kazimrattansi) 
