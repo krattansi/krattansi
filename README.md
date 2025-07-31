@@ -1,7 +1,7 @@
 # 📁 About Me:
 Hi there! I'm Kazim Rattansi
 
-🎓 Honors Actuarial Science Student at St. John's University <br>
+🎓 Honors Actuarial Science Student at St. John's University - The Greenberg School of Risk Management, Insurance, and Actuarial Science<br>
 🧮 Aspiring ALM Actuary <br>
 🗓️ Graduating May 2029 <br>
 
